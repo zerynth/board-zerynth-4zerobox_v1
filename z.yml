@@ -1,0 +1,15 @@
+---
+description: Add support for Zerynth 4ZeroBox
+fullname: board.zerynth.4zerobox_v1
+info:
+    board: 4ZeroBox
+    chip_manufacturer: Espressif
+    device: esp32
+    family_type: Xtensa lx6
+keywords:
+- espressif
+- esp32
+- industry 4.0
+- 4zerobox
+title: Zerynth 4ZeroBox Support Package
+...
